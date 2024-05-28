@@ -1,0 +1,10 @@
+streamlit
+streamlit_lottie
+streamlit-option-menu
+python-dotenv
+Pillow
+PyPDF2
+fpdf
+google-generativeai
+secure-smtplib
+email-validator
